@@ -1,2 +1,19 @@
-# Ignore environment variables
+# Environment variables
 .env
+
+# Dependencies
+node_modules/
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Test coverage
+coverage/
+
+# OS cruft
+.DS_Store
